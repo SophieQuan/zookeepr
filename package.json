@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/SophieQuan/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "heroku": "^7.59.3",
+    "nodemon": "^2.0.15"
   }
 }
